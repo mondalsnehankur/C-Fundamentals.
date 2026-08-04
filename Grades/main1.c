@@ -1,4 +1,4 @@
-// Program to calculate electricity bill using if-else
+// Program to calculate Grades using if-else
 #include <stdio.h>
 
 int main()
